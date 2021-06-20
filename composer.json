@@ -1,5 +1,5 @@
 {
-    "name": "naryama/uts-web",
+    "name": "Mahzuro/uts-web",
     "description": "Uts",
     "type": "project",
     "autoload": {
@@ -9,8 +9,8 @@
     },
     "authors": [
         {
-            "name": "Naryama",
-            "email": "naryamaharahap20@gmail.com"
+            "name": "MahzuroSupianti",
+            "email": "mahzuroazzurra12@gmail.com"
         }
     ],
     "require": {

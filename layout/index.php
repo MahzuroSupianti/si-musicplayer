@@ -38,7 +38,7 @@
         </section>
         
         <footer>
-            Copyright &copy;2021 NARYAMA HARAHAP
+            Copyright &copy;2021 MAHZURO SUPIANTI
         </footer>
     </main>
 </body>
